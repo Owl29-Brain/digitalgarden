@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/toolbox-configure/","tags":["Troubleshooting","SOLIDWORKS","Toolbox"]}
+{"tags":["Troubleshooting","SOLIDWORKS","Toolbox"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/toolbox-configure/","dgPassFrontmatter":true}
 ---
 
 - Always Check that Browser file is there on the C:\SOLIDWORKS Data (2) or on the server location

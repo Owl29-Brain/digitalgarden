@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/3-d-experience-solidworks-license-struck-into-offline-mode/"}
+{"SR":"SR01173666-01","Tech Support":"Mangesh Kharade, Kairan","dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/3-d-experience-solidworks-license-struck-into-offline-mode/","dgPassFrontmatter":true}
 ---
 
 #Service_Request #3DExperience #SOLIDWORKS 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/is-it-possible-to-scale-a-texture-to-fit-onto-a-rectangular-face-solidworks-always-seems-to-distort-the-texture/","tags":["Service_Request"]}
+{"SR":"QA00000117944","tags":["Service_Request"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/is-it-possible-to-scale-a-texture-to-fit-onto-a-rectangular-face-solidworks-always-seems-to-distort-the-texture/","dgPassFrontmatter":true}
 ---
 
 # Is it possible to scale a texture to fit onto a rectangular face? SOLIDWORKS® always seems to distort the texture.

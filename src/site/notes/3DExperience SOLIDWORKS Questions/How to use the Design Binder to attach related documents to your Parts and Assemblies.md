@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/how-to-use-the-design-binder-to-attach-related-documents-to-your-parts-and-assemblies/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/how-to-use-the-design-binder-to-attach-related-documents-to-your-parts-and-assemblies/","dgPassFrontmatter":true}
 ---
 
 https://www.javelin-tech.com/blog/2016/08/solidworks-design-binder/

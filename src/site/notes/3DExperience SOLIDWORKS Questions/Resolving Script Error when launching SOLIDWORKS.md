@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/resolving-script-error-when-launching-solidworks/","tags":["SOLIDWORKS","Troubleshooting"]}
+{"Title":"Resolving ‘Script Error’ when Startup/launching SOLIDWORKS","tags":["SOLIDWORKS","Troubleshooting"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/resolving-script-error-when-launching-solidworks/","dgPassFrontmatter":true}
 ---
 
 Multiple times we see that SOLIDWORKS® script error appears during startup/launch or with some other functions of SOLIDWORKS®. Error Occurs in following format, while launching SOLIDWORKS application.  

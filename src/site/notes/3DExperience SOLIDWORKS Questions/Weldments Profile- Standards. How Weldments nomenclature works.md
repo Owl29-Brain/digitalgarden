@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/weldments-profile-standards-how-weldments-nomenclature-works/","tags":["SOLIDWORKS","Weldments"]}
+{"tags":["SOLIDWORKS","Weldments"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/weldments-profile-standards-how-weldments-nomenclature-works/","dgPassFrontmatter":true}
 ---
 
 

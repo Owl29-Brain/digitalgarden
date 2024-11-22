@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/bends-lines-are-not-showing-in-the-dxf-dwg/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/bends-lines-are-not-showing-in-the-dxf-dwg/","dgPassFrontmatter":true}
 ---
 
 https://www.javelin-tech.com/blog/2019/03/solidworks-sheet-metal-bend-lines-mapped-to-dxf-layers/

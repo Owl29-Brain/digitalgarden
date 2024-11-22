@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/design-tree-not-visible-and-system-crashing/"}
+{"SR":"SR01241894-01","dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/design-tree-not-visible-and-system-crashing/","dgPassFrontmatter":true}
 ---
 
 #Service_Request #SOLIDWORKS #Troubleshooting 

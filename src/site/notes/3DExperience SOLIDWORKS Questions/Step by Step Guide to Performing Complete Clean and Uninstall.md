@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/step-by-step-guide-to-performing-complete-clean-and-uninstall/","tags":["Troubleshooting","SOLIDWORKS"]}
+{"SR":"SR01280989-01","tags":["Troubleshooting","SOLIDWORKS"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/step-by-step-guide-to-performing-complete-clean-and-uninstall/","dgPassFrontmatter":true}
 ---
 
 

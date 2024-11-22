@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/snl-installation-host-creation/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/snl-installation-host-creation/","dgPassFrontmatter":true}
 ---
 
 

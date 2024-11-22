@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/checking-the-snl-network/","tags":["SOLIDWORKS"]}
+{"tags":["SOLIDWORKS"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/checking-the-snl-network/","dgPassFrontmatter":true}
 ---
 
 #SOLIDNET 

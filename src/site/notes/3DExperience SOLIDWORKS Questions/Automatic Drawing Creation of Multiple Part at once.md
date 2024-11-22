@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/automatic-drawing-creation-of-multiple-part-at-once/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/automatic-drawing-creation-of-multiple-part-at-once/","dgPassFrontmatter":true}
 ---
 
 >[!Warning] 

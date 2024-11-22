@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-world/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/web-world/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 This page Include multiple data about the SOLIDWORKS For troubleshooting and some Tips & Tricks.

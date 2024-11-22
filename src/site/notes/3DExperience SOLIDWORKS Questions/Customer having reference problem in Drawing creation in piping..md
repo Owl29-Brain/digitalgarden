@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/customer-having-reference-problem-in-drawing-creation-in-piping/"}
+{"Customer":"Rotex Mumbai","dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/customer-having-reference-problem-in-drawing-creation-in-piping/","dgPassFrontmatter":true}
 ---
 
 This concern raised during the training. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/why-customized-textures-appear-blurred-into-final-render/","tags":["Service_Request"]}
+{"SR":"QA00000114613","tags":["Service_Request"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/why-customized-textures-appear-blurred-into-final-render/","dgPassFrontmatter":true}
 ---
 
 

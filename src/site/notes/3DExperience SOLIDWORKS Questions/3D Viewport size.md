@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/3-d-viewport-size/","tags":["Visualize","Troubleshooting"]}
+{"tags":["Visualize","Troubleshooting"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/3-d-viewport-size/","dgPassFrontmatter":true}
 ---
 
 

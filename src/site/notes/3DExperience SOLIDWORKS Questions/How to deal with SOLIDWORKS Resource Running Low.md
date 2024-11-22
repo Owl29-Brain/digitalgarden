@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/how-to-deal-with-solidworks-resource-running-low/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/how-to-deal-with-solidworks-resource-running-low/","dgPassFrontmatter":true}
 ---
 
 https://blogs.solidworks.com/tech/2018/10/how-to-deal-with-solidworks-resource-running-low.html

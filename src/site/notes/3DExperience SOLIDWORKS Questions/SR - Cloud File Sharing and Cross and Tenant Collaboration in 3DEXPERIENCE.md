@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/sr-cloud-file-sharing-and-cross-and-tenant-collaboration-in-3-dexperience/","tags":["Service_Request","3DExperience"]}
+{"SR":"SR01267340-01","tags":["Service_Request","3DExperience"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/sr-cloud-file-sharing-and-cross-and-tenant-collaboration-in-3-dexperience/","dgPassFrontmatter":true}
 ---
 
 1. **Sharing files on the cloud:**

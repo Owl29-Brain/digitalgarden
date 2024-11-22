@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/perform-a-clean-uninstall-of-3-dexperience-solidworks-solidworks-connected-including-registry-keys-and-folders/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/perform-a-clean-uninstall-of-3-dexperience-solidworks-solidworks-connected-including-registry-keys-and-folders/","dgPassFrontmatter":true}
 ---
 
 #3DExperience #SOLIDWORKS #Troubleshooting

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/symbols-not-visible-in-the-drawing/","tags":["SOLIDWORKS","Troubleshooting"]}
+{"tags":["SOLIDWORKS","Troubleshooting"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/symbols-not-visible-in-the-drawing/","dgPassFrontmatter":true}
 ---
 
 Add file location of the symbol Library again. 

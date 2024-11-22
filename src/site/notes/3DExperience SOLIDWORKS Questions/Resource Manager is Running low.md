@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/resource-manager-is-running-low/","tags":["Troubleshooting"]}
+{"tags":["Troubleshooting"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/resource-manager-is-running-low/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/how-to-change-multiple-drawing-sheet-format-at-once-and-with-standard-checking/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/how-to-change-multiple-drawing-sheet-format-at-once-and-with-standard-checking/","dgPassFrontmatter":true}
 ---
 
 #SOLIDWORKS #Feature 

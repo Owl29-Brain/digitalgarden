@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/troubleshooting-the-error-message-solidworks-visualize-has-encountered-an-error-when-launching-visualize-connected/","tags":["Troubleshooting","Visualize"]}
+{"Title":"Troubleshooting the error message ‘SOLIDWORKS® Visualize has encountered an error’ when launching Visualize Connected","tags":["Troubleshooting","Visualize"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/troubleshooting-the-error-message-solidworks-visualize-has-encountered-an-error-when-launching-visualize-connected/","dgPassFrontmatter":true}
 ---
 
 Error Occurs in following format, while launching SOLIDWORKS Visualize![](https://blog-assets.solidworks.com/uploads/sites/4/1-153-615x277.png)

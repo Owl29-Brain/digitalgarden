@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/new-installation-of-solidworks-crashing-at-splash-screen/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/new-installation-of-solidworks-crashing-at-splash-screen/","dgPassFrontmatter":true}
 ---
 
 #SOLIDWORKS #Troubleshooting 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/custom-texture-application-in-solidworks-and-visualize/","tags":["Visualize","SOLIDWORKS"]}
+{"SR":"SR01255368-01","tags":["Visualize","SOLIDWORKS"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/custom-texture-application-in-solidworks-and-visualize/","dgPassFrontmatter":true}
 ---
 
 # Problem Statement 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/how-to-remove-unwanted-files-in-solidworks-in-pack-and-go-and-missing-files/"}
+{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/how-to-remove-unwanted-files-in-solidworks-in-pack-and-go-and-missing-files/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/registry-keys-control-of-command-manager-location-and-buttons/","tags":["SOLIDWORKS","Troubleshooting","ResistryEditor"]}
+{"Remarks":null,"tags":["SOLIDWORKS","Troubleshooting","ResistryEditor"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/registry-keys-control-of-command-manager-location-and-buttons/","dgPassFrontmatter":true}
 ---
 
 

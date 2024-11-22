@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/different-sizes-of-toolbox-components-when-opened-from-the-various-views-in-drawing/","tags":["Service_Request"]}
+{"SR":"SR01258505-01","tags":["Service_Request"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/different-sizes-of-toolbox-components-when-opened-from-the-various-views-in-drawing/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/draft-sight-version-compatibility-and-saving-files-to-older-versions/","tags":["DraftSight","Troubleshooting","n"]}
+{"Title":"Understanding Version Compatibility and saving files to older versions","tags":["DraftSight","Troubleshooting","n"],"dg-publish":true,"permalink":"/3-d-experience-solidworks-questions/draft-sight-version-compatibility-and-saving-files-to-older-versions/","dgPassFrontmatter":true}
 ---
 
 DraftSight® creates and saves the drawing files in **dwg** file format by default. **DWG** is a binary file format used for storing 2D and 3D design data and metadata. In DraftSight® it’s possible to change file save as format using **Save as type** option in Save as Window.
